@@ -68,12 +68,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://youtube.com/@thugnf1cent
+║❒ *Ytube:* _https://youtube.com/@thugnf1cent_
 ║❒ *Owner:* https://wa.me/2347079059033_
 ║❒ *Repo:* _https://github.com/DEMONST3R-CODER/Queen-Makima_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FFKYbOjrvGx2udsqJ6oYlc
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01
-║❒ *Plugins:* _https://github.com/DEMONST3R-CODER
+║❒ *WaGroup:* _https://chat.whatsapp.com/FFKYbOjrvGx2udsqJ6oYlc_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01_
+║❒ *Plugins:* _https://github.com/DEMONST3R-CODER_
 ╚════════════════════════╝
 _____________________________________
 	
