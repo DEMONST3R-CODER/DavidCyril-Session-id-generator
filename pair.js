@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by CASEYRHODES MD*
-*_Made With 🚬🗿_*
+*QUEEN MAKIMA CONNECTED SUCCESSFULLY 💞🔏*
+*_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN CASEYRHODES MD V2 』*
+║ *『 AMAZING YOU'VE QUEEN MAKIMA』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@caseyrhodes01
-║❒ *Owner:* https://wa.me/254112192119_
-║❒ *Repo:* _https://github.com/caseyweb_
-║❒ *WaGroup:* _https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
-║❒ *Plugins:* _https://github.com/caseyweb
+║❒ *Ytube:* _https://youtube.com/@thugnf1cent
+║❒ *Owner:* https://wa.me/2347079059033_
+║❒ *Repo:* _https://github.com/DEMONST3R-CODER/Queen-Makima_
+║❒ *WaGroup:* _https://chat.whatsapp.com/FFKYbOjrvGx2udsqJ6oYlc
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01
+║❒ *Plugins:* _https://github.com/DEMONST3R-CODER
 ╚════════════════════════╝
 _____________________________________
 
